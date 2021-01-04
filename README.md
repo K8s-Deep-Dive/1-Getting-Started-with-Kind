@@ -1,5 +1,8 @@
 # Getting Started with KinD 
 
+[Video ](https://player.vimeo.com/video/497069850)
+
+
 
 # Step 1
 
