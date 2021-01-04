@@ -1,6 +1,10 @@
 # Getting Started with KinD 
 
-[Video ](https://player.vimeo.com/video/497069850)
+<a href=https://player.vimeo.com/video/497069850>
+<img src=https://user-images.githubusercontent.com/755710/103590174-2619ad80-4ebb-11eb-939f-9fe59924c9fd.png width=400 />
+</a>
+
+
 
 
 
