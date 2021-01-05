@@ -86,7 +86,7 @@ kubectl expose pod nginx --type=LoadBalancer
 ```bash
 
 
-kubectl xec -it nginx -- bash
+kubectl exec -it nginx -- bash
 apt-get update
 apt-get install -y procps
 apt-get install -y net-tools
