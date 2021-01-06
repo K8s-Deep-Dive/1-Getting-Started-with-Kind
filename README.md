@@ -93,6 +93,18 @@ apt-get install -y net-tools
 
 ```
 
+Also, since KinD uses kubeadm, you may want to inspect the config. 
+
+
+```bash
+docker exec -it kind-control-plane cat /kind/kubeadm.conf
+
+```
+
+
+
+
+
 
 ## Forward a port
 
