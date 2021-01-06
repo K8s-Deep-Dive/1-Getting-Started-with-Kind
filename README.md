@@ -102,6 +102,14 @@ docker exec -it kind-control-plane cat /kind/kubeadm.conf
 ```
 
 
+If needed, you can dump logs to a folder.  Here' I'm dumping
+to the folder *dumpFolder*.
+
+```bash
+kind export logs dumpFolder
+
+```
+
 
 
 
