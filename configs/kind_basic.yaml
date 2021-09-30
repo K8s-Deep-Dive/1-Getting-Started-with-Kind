@@ -19,11 +19,6 @@ nodes:
     nodeRegistration:
       kubeletExtraArgs:
         node-labels: "ingress-ready=true"
-  extraMounts:
-  - hostPath: /pod-50g/
-    containerPath: /pod-50g    
 - role: worker
-  extraMounts:
-  - hostPath: /pod-50g/
-    containerPath: /pod-50g
+
     
